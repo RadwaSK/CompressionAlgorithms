@@ -1,2 +1,10 @@
 # CompressionAlgorithms
-This was an assignment in Multimedia course. We were to continue on an outline for three algorithms to compress PGM images; Huffman, Dictionary and Arithmetic. All written using C++.
+
+This was an assignment in Multimedia course.
+Written in C++.
+
+We were to continue on an outline--just classes with empty functions--for three algorithms to compress PGM images:
+
+## Huffman
+## Dictionary
+## Arithmetic
